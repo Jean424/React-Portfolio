@@ -28,8 +28,8 @@ The page will reload if you make edits.
 - N/A
 
 ## Copyright:
-Copyright © 2022 Jing Li.
-Licensed under the [MIT License](LICENSE).
+- Copyright © 2022 Jing Li.
+- Licensed under the [MIT License](LICENSE).
 
 ## Link:
 - GitHub: https://github.com/Jean424/React-Portfolio
