@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.7aed66e4.css",
+    "main.js": "/React-Portfolio/static/js/main.76e922fe.js",
+    "static/js/415.4d6acbeb.chunk.js": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DnD-Charactor-Generator.png": "/React-Portfolio/static/media/DnD-Charactor-Generator.a1c7f5227c89302d2fbf.png",
+    "static/media/movie.png": "/React-Portfolio/static/media/movie.06eeb03926fe2aa2bc8a.png",
+    "static/media/logo.png": "/React-Portfolio/static/media/logo.9b115010d0d41b68a062.png",
+    "static/media/home-main.svg": "/React-Portfolio/static/media/home-main.098c9e02d90c7ddf260f0281ccba8817.svg",
+    "static/media/Jing(Jean)Li_CV.pdf": "/React-Portfolio/static/media/Jing(Jean)Li_CV.af7e544dfeae9c6a4e55.pdf",
+    "static/media/avatar.svg": "/React-Portfolio/static/media/avatar.5f4c00f405edc9405be0f78911469b80.svg",
+    "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.b9498b4a9cc11e89da52.png",
+    "static/media/about.png": "/React-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.e4b311ef09ac0babaaff.png",
+    "static/media/code-quiz.png": "/React-Portfolio/static/media/code-quiz.00435cfa01162ae9a1da.png",
+    "static/media/home-bg.jpg": "/React-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/React-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.7aed66e4.css.map": "/React-Portfolio/static/css/main.7aed66e4.css.map",
+    "main.76e922fe.js.map": "/React-Portfolio/static/js/main.76e922fe.js.map",
+    "415.4d6acbeb.chunk.js.map": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aed66e4.css",
+    "static/js/main.76e922fe.js"
+  ]
+}
